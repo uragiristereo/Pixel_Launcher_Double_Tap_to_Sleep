@@ -1,16 +1,16 @@
 # Pixel Launcher Double Tap to Sleep
 
-An Xposed/LSposed module to enable double tap to sleep functionality on Pixel Launcher.
+An Xposed/LSPosed module to enable double tap to sleep functionality on Pixel Launcher.
 
 Tested on Pixel Launcher 12 (906) on Android 12.1.
 
 ## Requirements
-- [LSposed](https://github.com/LSPosed/LSPosed) min. API 93
+- [LSPosed](https://github.com/LSPosed/LSPosed) min. API 93
 - [Magisk](https://github.com/topjohnwu/Magisk) (root)
 
 ## Installation
 - Install the module APK (available from [Releases](https://github.com/uragiristereo/Pixel_Launcher_Double_Tap_to_Sleep/releases) page).
-- Open `LSposed Manager`, and enable the module.
+- Open `LSPosed Manager`, and enable the module.
 - Long press on `Pixel Launcher` in the app list, and tap **Force stop**.
 - Enjoy!
 
