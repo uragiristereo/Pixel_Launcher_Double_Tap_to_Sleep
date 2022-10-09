@@ -27,7 +27,7 @@ class HookEntry : IYukiHookXposedInit {
                     }
 
                     afterHook {
-                        Shell.cmd("input keyevent 26").exec()
+                        Shell.cmd("input keyevent 223").exec()
                     }
                 }
             }
