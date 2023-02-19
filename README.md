@@ -18,6 +18,9 @@ Works on every Pixel Launcher versions, tested on Pixel Launcher 12 (906) on And
 
 *Note: You need to grant superuser access to Pixel Launcher in order to work.*
 
+## Also being featured in
+- [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended)
+
 ## License
     Copyright 2022 Agung Watanabe
 
